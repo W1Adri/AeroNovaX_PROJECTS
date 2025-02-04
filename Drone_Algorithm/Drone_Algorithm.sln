@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Drone_Algorithm", "Drone_Algorithm.pyproj", "{1CA71DC8-D03B-4A0D-8A69-D40242F9639B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CA71DC8-D03B-4A0D-8A69-D40242F9639B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA71DC8-D03B-4A0D-8A69-D40242F9639B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CC5F8F6-B9C0-4551-9C4B-C876FC1D61DB}
+	EndGlobalSection
+EndGlobal
